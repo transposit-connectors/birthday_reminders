@@ -40,8 +40,8 @@
         "ref": "google_calendar.raw",
         "requireConsumerSignin": true
       }],
-      "source": "src",
-      "javascriptAPIVersion": "3"
+      "javascriptAPIVersion": "3",
+      "source": "src"
     }
   }
 }
