@@ -1,4 +1,4 @@
-# Add birthdays to Google Calendar
+# Birthday Reminders
 
 This is a simple Transposit app to add birthdays of friends and family to your Google calendar. It automates and simplifies the process of creating yearly recurring events.
 
