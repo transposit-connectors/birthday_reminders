@@ -43,6 +43,7 @@
       "javascriptAPIVersion": "3",
       "source": "src"
     },
-    "description": "Create yearly recurring events on your Google calendar."
+    "description": "Create yearly recurring events on your Google calendar.",
+    "displayName": "Birthday Reminders"
   }
 }
